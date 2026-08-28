@@ -18,8 +18,8 @@ orderButtons.forEach(button => {
         const message =
             `أريد طلب ${productName} من طباعه ستور ☕💚`;
 
-        const whatsappURL =
-            `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
+       const whatsappURL =
+    `https://wa.me/201205899826?text=${encodeURIComponent(message)}`;
 
         window.open(
             whatsappURL,
