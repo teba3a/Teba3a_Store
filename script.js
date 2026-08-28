@@ -1,4 +1,4 @@
-const whatsappNumber = "01205899826";
+const whatsappNumber = "201205899826";
 
 
 // ==============================
@@ -14,6 +14,8 @@ orderButtons.forEach(button => {
 
         const productName =
             button.getAttribute("data-product");
+
+        const phone = "201205899826";
 
         const message =
             `أريد طلب ${productName} من طباعه ستور ☕💚`;
